@@ -6,3 +6,7 @@
   - /users/ -> POST -> {username,email}
   - /users/:id -> PUT -> update the user
   - /users/:id -> DELETE -> delete the user
+
+# Live server link
+
+- [click here](https://rest-api-one-production.up.railway.app/users)
